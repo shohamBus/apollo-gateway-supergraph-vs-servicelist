@@ -1,0 +1,16 @@
+{
+  "name": "gatway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "name <name@amdocs.com> (http://blog.example.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/gateway": "^2.6.3",
+    "apollo-server": "^3.13.0"
+  }
+}
